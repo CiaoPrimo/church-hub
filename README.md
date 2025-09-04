@@ -1,4 +1,4 @@
-# Church Communication & Staff Management App
+# AltarMail
 
 This project is a **custom web application** built for church communication and staff coordination.  
 It is designed with simplicity, speed, and clarity in mind, so that church staff can communicate effectively with parents, altar servers, and one another — all through one shared platform.
